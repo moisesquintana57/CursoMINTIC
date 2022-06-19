@@ -1,0 +1,45 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "archivo.txt",
+      "provenance": [],
+      "authorship_tag": "ABX9TyP/mMerPOKVvjlknkmrYVno",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/moisesquintana57/CursoMINTIC/blob/main/archivo.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Este es mi archivo texto en su primera línea.\n",
+        "Esta segunda linea\n",
+        "y la tercera\n",
+        "\n",
+        "Despues de la vacia está esta\n",
+        "Y la linea final."
+      ],
+      "metadata": {
+        "id": "xnenaElEBuff"
+      }
+    }
+  ]
+}
